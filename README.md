@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youngwishes&label=Profile%20views&color=0e75b6&style=flat" alt="youngwishes" /> </p>
 
-- 🌱 I’m currently learning **python and it's relative technologies**
+- 🌱 I’m currently learning **Kafka in MSA**
 
 - 📫 How to reach me **mysc1@yandex.ru**
 
